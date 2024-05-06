@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ordrsmart-intern-project/static/css/main.49bd0063.css",
+    "main.js": "/ordrsmart-intern-project/static/js/main.9512ebd0.js",
+    "static/js/453.d1a86e40.chunk.js": "/ordrsmart-intern-project/static/js/453.d1a86e40.chunk.js",
+    "static/media/Gilroy-ExtraBold.otf": "/ordrsmart-intern-project/static/media/Gilroy-ExtraBold.0094146a0505298ed06a.otf",
+    "static/media/Gilroy-Light.otf": "/ordrsmart-intern-project/static/media/Gilroy-Light.cc7ab55d27205bd64001.otf",
+    "index.html": "/ordrsmart-intern-project/index.html",
+    "main.49bd0063.css.map": "/ordrsmart-intern-project/static/css/main.49bd0063.css.map",
+    "main.9512ebd0.js.map": "/ordrsmart-intern-project/static/js/main.9512ebd0.js.map",
+    "453.d1a86e40.chunk.js.map": "/ordrsmart-intern-project/static/js/453.d1a86e40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49bd0063.css",
+    "static/js/main.9512ebd0.js"
+  ]
+}
